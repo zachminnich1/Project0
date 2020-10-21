@@ -1,0 +1,16 @@
+R00,null,null,R01,null,This is a decontamination room into the space ship. There is a door to the South.
+R10,null,R20,R11,null,This is an observatory deck. There is a large window showing the vastness of space. There are doors to the South and East.
+R20,null,R30,null,R10,This is a navigation chamber. There is a large array of panels and buttons. There are doors to the East and West.
+R30,null,null,R31,R20,This is the workout room. There is lots of gym equipment here. There are doors to the South and West.
+R01,R00,R11,null,null,This is a space suit storage room. There is a lot of equipment here. There are doors to the North and East.
+R11,R10,R21,null,R01,This is a cafeteria with many tables. There are doors to the North East and West.
+R21,null,null,null,R11,This is a kitchen. There is a lot of food prep equipment here. There is a door to the West.
+R31,R30,null,R32,null,This is the barracks. There are many beds along the walls. There are doors to the North and South.
+R02,null,R12,R03,null,There is a reactor here with many red lights flashing and sirens wailing. There are doors to the South and East.
+R12,null,null,R13,R02,This is the engine room. There are many buttons and screens everywhere. There are doors to the South and West.
+R22,null,R32,null,null,This is the Captain's Quarters. There is a simple bed and desk. There is a door to the East.
+R32,R31,null,R33,R22,This is a hallway with many captain's photos on the walls. There are doors to the North South and West.
+R03,R02,null,null,null,There is an escape pod to the South. But you can continue exploring the ship by going back North.
+R13,R12,R23,null,null,This is the hold. There are boxes stacked everywhere. There are doors to the North and East.
+R23,null,R33,null,R13,This is the Life Support room. There seems to be something wrong. There are doors to the East and West.
+R33,R32,null,null,R23,This is a bathroom. There are doors to the North and West.

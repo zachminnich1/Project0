@@ -1,0 +1,13 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Zach Minnich\IdeaProjects\Project0\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Forcing garbage collection...
+[error] Nonzero exit code: 1
+[error] (Compile / run) Nonzero exit code: 1
+[error] Total time: 102 s (01:42), completed Oct 19, 2020 12:50:39 PM
+[debug] > Exec(idea-shell, None, None)
+[warn] 6.762 seconds of the last 10 seconds were spent in garbage collection. You may want to increase the project heap size using `-Xmx` or try a different gc algorithm, e.g. `-XX:+UseG1GC`, for better performance.
+[warn] 5.929 seconds of the last 10 seconds were spent in garbage collection. You may want to increase the project heap size using `-Xmx` or try a different gc algorithm, e.g. `-XX:+UseG1GC`, for better performance.
+[warn] 8.747 seconds of the last 10 seconds were spent in garbage collection. You may want to increase the project heap size using `-Xmx` or try a different gc algorithm, e.g. `-XX:+UseG1GC`, for better performance.
